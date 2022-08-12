@@ -68,6 +68,7 @@ img{
   margin: 10px;
 }
 
+/*void*/
 .portfolio{
   max height: 33.33%;
   max width: 33.33%;
@@ -75,6 +76,11 @@ img{
 
 #profile{
   float: left;
+}
+
+#sustainable{
+  max height: 250px;
+  max-width:250px;
 }
 /* STYLE NAV BAR */
 nav{
